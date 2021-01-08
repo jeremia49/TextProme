@@ -1,0 +1,6 @@
+virtualenv/
+build/
+dist/
+env/
+textprome.egg-info/
+textprome
